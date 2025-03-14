@@ -41,3 +41,15 @@ The following models have been implemented:
 - **Random Forest Classifier**
 - **Voting Classifier (Hard & Soft Voting)**
 - **Stacking Classifier (Layered Learning)**
+
+## Model Evaluation
+The models' performance is evaluated using:
+- Accuracy
+- Precision
+- Recall
+- F1-score
+- Confusion Matrix
+- ROC Curve (if applicable)
+
+## Results
+Each model's results are compared to determine the most effective approach for heart disease prediction. Ensemble methods, such as voting and stacking classifiers, are tested to see if they outperform individual models.
